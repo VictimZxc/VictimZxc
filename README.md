@@ -20,4 +20,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictimZxc&layout=compact&theme=vision-friendly-dark)](https://github.com/octocat)
 
 ### 🔧 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,&theme=dark)]
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,&theme=dark)](https://skillicons.dev)
+
