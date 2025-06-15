@@ -22,5 +22,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictimZxc&layout=compact&theme=vision-friendly-dark)](https://github.com/VictimZxc)
 
 ### 🔧 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,&theme=dark)](https://skillicons.dev)
 
